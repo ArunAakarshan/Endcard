@@ -1,0 +1,16 @@
+.contact-info {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    position: absolute; 
+    bottom: 0;
+    margin-right: 0;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin: 0;
+  }
+  .footer p {
+    margin: 0;
+  }

@@ -1,0 +1,56 @@
+.card-container {
+  display: flex; 
+  justify-content: space-between;
+  margin-top: 20px;
+  padding: 20px;
+}
+
+.card {
+  flex: 1;
+  display: flex;
+  background-color: white;
+  border: 1px solid #e9ecef;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  padding-left: 100px;
+}
+#au{
+  padding: 0px;
+  margin: 0;
+  padding-left: 100px;
+}
+.card-content {
+  flex: 1;
+}
+
+.card h2 {
+  font-size: 24px;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.card p {
+  color: #333;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+
+.about-us-page{
+  background-image: url(C:\Users\Aakarshan\Desktop\html\js\Final\important\src\assets\pexels-min-an-771313.jpg);
+  background-size: cover;
+  object-fit: cover;
+  height: 100vh;
+}
+.back-button {
+  background-color: #003049;
+  color: #e9ecef;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  text-decoration: none;
+  font-size: 16px;
+  padding-left: 100px;
+}

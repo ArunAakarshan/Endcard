@@ -1,0 +1,44 @@
+.navbar1 {
+  background-color: #333;
+  overflow: hidden;
+  display: flex;
+  align-items: center; 
+}
+
+.navbar1 .logo {
+  flex: 1; 
+}
+
+.navbar1 a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.navbar1 a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.navbar1 .about-us {
+  float: right;
+  margin-left: 20px;
+}
+
+.navbar1 .logout {
+  float: right;
+  margin-left: 20px;
+}
+
+.TaskBender1 {
+  padding-left: 20px; /* Adjust the left padding as needed */
+  display: flex;
+  align-items: center; /* Vertically center text within TaskBender */
+}
+
+
+.logout{
+  right: 0;
+}

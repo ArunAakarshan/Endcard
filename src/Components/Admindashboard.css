@@ -1,0 +1,22 @@
+.pic{
+    background-image: url(C:\Users\Aakarshan\Desktop\html\js\Final\important\src\assets\pexels-borja-lopez-1059078.jpg);
+    background-size: cover;
+    height: 100vh;
+    object-fit: cover;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.adminForm {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.adminForm input{
+    width: 20rem;
+    padding: 10px;
+    border-radius: 10px;
+}
